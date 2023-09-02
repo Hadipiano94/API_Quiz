@@ -1,7 +1,5 @@
 import tkinter as tk
-import _tkinter
 from quiz_brain import QuizBrain
-import time
 
 
 THEME_COLOR = "#375362"
